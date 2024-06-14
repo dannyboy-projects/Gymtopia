@@ -2,7 +2,7 @@
 The Best Gym and Nutrition spreadsheet
 
 
-#Features
+# Features
 
 (1) PB lift tracker<br>
 (2) Golden Ratio dimension calculator and tracker<br>
